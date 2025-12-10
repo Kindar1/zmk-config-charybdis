@@ -12,7 +12,7 @@
 #define BASE 0
 #define POINTER 1
 #define LOWER 2
-#define RAISE 3
+#define LAYER2 3
 #define SYMBOLS 4
 #define SCROLL 5
 #define SNIPING 6
